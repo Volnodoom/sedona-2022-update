@@ -242,7 +242,7 @@ input[type="number"] {
   height: 509px;
 
   background-image: 
-  url('/img/decoration/shapecut-background.svg'),
+  url('../img/decoration/shapecut-background.svg'),
   url('/img/decoration/background-photo.jpg');
   background-position: bottom;
   background-repeat: no-repeat;
