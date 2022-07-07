@@ -401,7 +401,7 @@ input[type="number"] {
   margin-top: -17px;
 
   background-size: contain;
-  background-image: url('/img/decoration/icon-1-hous.svg');
+  background-image: url('../img/decoration/icon-1-hous.svg');
 }
 
 .food::before {
@@ -413,7 +413,7 @@ input[type="number"] {
   margin-top: -17px;
 
   background-size: contain;
-  background-image: url('/img/decoration/icon-3-food.svg');
+  background-image: url('../img/decoration/icon-3-food.svg');
 }
 
 .surprise::before {
@@ -427,7 +427,7 @@ input[type="number"] {
 
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url('/img/decoration/icon-2-surprise.svg');
+  background-image: url('../img/decoration/icon-2-surprise.svg');
 }
 
 .hotel-search {
@@ -890,7 +890,7 @@ input[type="number"] {
   color: var(--basic-white);
   background-size: cover;
   background-color: var(--basic-cloudy-blue);
-  background-image: url('/img/decoration/background-blur.jpg');
+  background-image: url('../img/decoration/background-blur.jpg');
 }
 
 .filter-form-group {
